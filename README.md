@@ -23,7 +23,7 @@
 
 Вот так должен выглядеть виджет в целом, для упрощения будем считать, что виджет всегда должен показываться сверху.
 
-https://github.com/netology-code/ahj-homeworks/blob/video/forms/pic/Popovers.png
+![](https://github.com/netology-code/ahj-homeworks/blob/video/forms/pic/Popovers.png)
 
 У popover'а обязательно должно быть название и текст. Центрироваться он обязательно должен по горизонтали относительно элемента, который вызвал popover'а.
 
